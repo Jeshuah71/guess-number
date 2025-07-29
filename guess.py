@@ -20,7 +20,7 @@ def main():
         elif guess > numero:
             print("⬇️ Muy alto.")
         else:
-            print(f"🎉 ¡Correcto! Era {numero}. Lo lograste en {intentos} intentos.")
+            print(f"🎉 ¡Correcto! muy  Era {numero}. Lo lograste en {intentos} intentos.")
             break
 
 if __name__ == "__main__":
